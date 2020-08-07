@@ -1,0 +1,61 @@
+Exception Code : C0000005 ACCESS_VIOLATION
+Crash Address:  006854CF 02:000094CF C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe
+
+CPU:
+EAX:00000000
+EBX:00816000
+ECX:5D75AA2E
+EDX:00000001
+ESI:00AFF63C
+EDI:00AFF2CC
+CS:EIP:0023:006854CF
+SS:ESP:002B:00AFEE68  EBP:00AFF2D8
+DS:002B  ES:002B  FS:0053  GS:002B
+Flags:00210246
+
+PDB Search Path:.;C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\
+
+Call Stack:
+Address   Frame     Function            SourceFile
+006854CF  00AFF2D8  FrmAddr Failed:870002:000094CF C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GameChap line 13
+00681C9E  00AFF3D8  FrmAddr Failed:870002:00005C9E C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GameCh line 40
+0068232F  00AFF538  FrmAddr Failed:870002:0000632F C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\CMyG line 25
+00680E98  00AFF628  FrmAddr Failed:870002:00004E98 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\CMyG line 9
+0067F0F8  00AFF7A0  FrmAddr Failed:870002:000030F8 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\m line 52
+006ACCED  00AFF7C0  FrmAddr Failed:870002:00030CED C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl line 107
+006ACB47  00AFF81C  FrmAddr Failed:870002:00030B47 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl line 288
+006AC9DD  00AFF824  FrmAddr Failed:870002:000309DD C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl line 331
+006ACD68  00AFF82C  FrmAddr Failed:870002:00030D68 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_winmain.cpp line 17
+75B06359  00AFF83C  FrmAddr Failed:870001:00006359 C:\WINDOWS\System32\KERNEL32.DLL
+77DF7C24  00AFF898  FrmAddr Failed:870001:00066C24 C:\WINDOWS\SYSTEM32\ntdll.dll
+77DF7BF4  00AFF8A8  FrmAddr Failed:870001:00066BF4 C:\WINDOWS\SYSTEM32\ntdll.dll
+Stack Param Info:
+
+Call Stack:
+Address   Frame     Function            SourceFile
+006854CF  00AFF2D8  FrmAddr Failed:870002:000094CF C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GameChap line 13
+
+00681C9E  00AFF3D8  FrmAddr Failed:870002:00005C9E C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GameCh line 40
+
+0068232F  00AFF538  FrmAddr Failed:870002:0000632F C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\CMyG line 25
+
+00680E98  00AFF628  FrmAddr Failed:870002:00004E98 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\CMyG line 9
+
+0067F0F8  00AFF7A0  FrmAddr Failed:870002:000030F8 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\m line 52
+	Local 'szAppName'
+
+006ACCED  00AFF7C0  FrmAddr Failed:870002:00030CED C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl line 107
+
+006ACB47  00AFF81C  FrmAddr Failed:870002:00030B47 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl line 288
+
+006AC9DD  00AFF824  FrmAddr Failed:870002:000309DD C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl line 331
+
+006ACD68  00AFF82C  FrmAddr Failed:870002:00030D68 C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe  d:\agent\_work\3\s\src\vctools\crt\vcstartup\src\startup\exe_winmain.cpp line 17
+
+75B06359  00AFF83C  FrmAddr Failed:870001:00006359 C:\WINDOWS\System32\KERNEL32.DLL
+
+77DF7C24  00AFF898  FrmAddr Failed:870001:00066C24 C:\WINDOWS\SYSTEM32\ntdll.dll
+
+77DF7BF4  00AFF8A8  FrmAddr Failed:870001:00066BF4 C:\WINDOWS\SYSTEM32\ntdll.dll
+
+

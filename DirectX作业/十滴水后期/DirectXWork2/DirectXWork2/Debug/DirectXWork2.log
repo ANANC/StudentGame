@@ -1,0 +1,7 @@
+﻿  GWaterSmall.cpp
+C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GWaterSmall.cpp(11): warning C4244: “初始化”: 从“FLOAT”转换到“int”，可能丢失数据
+C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GWaterSmall.cpp(22): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GWaterSmall.cpp(26): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GWaterSmall.cpp(30): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\DirectXWork2\MyFrame\GWaterSmall.cpp(34): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+  DirectXWork2.vcxproj -> C:\Users\admin\Desktop\DirectX作业\十滴水后期\DirectXWork2\Debug\DirectXWork2.exe

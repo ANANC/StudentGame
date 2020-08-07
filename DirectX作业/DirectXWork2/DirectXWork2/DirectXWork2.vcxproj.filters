@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="My framework">
+      <UniqueIdentifier>{2a005f09-5791-49a5-a6de-3db092ca12a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OldFrame">
+      <UniqueIdentifier>{d6e2403d-7f81-44a1-aa5f-7ab99cb9ff7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="My framework\water">
+      <UniqueIdentifier>{b48f642a-80df-4301-ba38-39902514d8a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OldFrame\New">
+      <UniqueIdentifier>{eb78faa9-f544-4e91-824d-e0027adc6adf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OldFrame\Old">
+      <UniqueIdentifier>{8675ef33-42c5-4512-afa2-d3946d79e9f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\CMyGame.cpp">
+      <Filter>My framework</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\GWater.cpp">
+      <Filter>My framework\water</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\WaterManager.cpp">
+      <Filter>My framework\water</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\GWaterSmall.cpp">
+      <Filter>My framework\water</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\NSprite.cpp">
+      <Filter>OldFrame\New</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\GameChapter.cpp">
+      <Filter>My framework</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\GameResource.cpp">
+      <Filter>My framework\water</Filter>
+    </ClCompile>
+    <ClCompile Include="MyFrame\NSpriteManager.cpp">
+      <Filter>OldFrame\New</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\AnimationSprite.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\Game.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\Input.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\ResourcesPool.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\Sprite.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\SpritesManager.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+    <ClCompile Include="OldFrame\XAudio2SoundPlayer.cpp">
+      <Filter>OldFrame\Old</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyFrame\CMyGame.h">
+      <Filter>My framework</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\GameResource.h">
+      <Filter>My framework\water</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\GWater.h">
+      <Filter>My framework\water</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\WaterManager.h">
+      <Filter>My framework\water</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\GWaterSmall.h">
+      <Filter>My framework\water</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\NSprite.h">
+      <Filter>OldFrame\New</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\NAnimationSprite.h">
+      <Filter>OldFrame\New</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\GameChapter.h">
+      <Filter>My framework</Filter>
+    </ClInclude>
+    <ClInclude Include="MyFrame\NSpriteManager.h">
+      <Filter>OldFrame\New</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\AnimationSprite.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\Game.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\Helper.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\Input.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\ResourcesPool.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\Sprite.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\SpritesManager.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+    <ClInclude Include="OldFrame\XAudio2SoundPlayer.h">
+      <Filter>OldFrame\Old</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
