@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: c0a2f520f8fe9594d833582bb8292dc8
+timeCreated: 1482653779
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: selectScene_0
+    21300002: selectScene_1
+    21300004: selectScene_2
+    21300006: selectScene_3
+    21300008: selectScene_4
+    21300010: selectScene_5
+    21300012: selectScene_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: selectScene_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 135
+        width: 89
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 96.5}
+        - {x: -44.5, y: -96.5}
+        - {x: 43.5, y: -96.5}
+        - {x: 44.5, y: -94.5}
+        - {x: 44.5, y: 94.5}
+        - {x: 42.5, y: 96.5}
+    - name: selectScene_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 14
+        width: 341
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.5, y: 156.5}
+        - {x: -170.5, y: 156.5}
+        - {x: -170.5, y: -155.5}
+        - {x: -169.5, y: -156.5}
+        - {x: 168.5, y: -156.5}
+        - {x: 170.5, y: -155.5}
+        - {x: 170.5, y: 154.5}
+    - name: selectScene_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 14
+        width: 89
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 156.5}
+        - {x: -42.5, y: 156.5}
+        - {x: -44.5, y: 155.5}
+        - {x: -44.5, y: -156.5}
+        - {x: 43.5, y: -156.5}
+        - {x: 44.5, y: -155.5}
+        - {x: 44.5, y: 154.5}
+    - name: selectScene_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 29.5}
+        - {x: -42.5, y: -29.5}
+        - {x: 42.5, y: -29.5}
+        - {x: 42.5, y: 29.5}
+    - name: selectScene_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 68
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 29.5}
+        - {x: -42.5, y: -29.5}
+        - {x: 42.5, y: -29.5}
+        - {x: 42.5, y: 29.5}
+    - name: selectScene_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 23}
+        - {x: -42.5, y: -23}
+        - {x: 42.5, y: -23}
+        - {x: 42.5, y: 23}
+    - name: selectScene_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 13
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 23}
+        - {x: -42.5, y: -23}
+        - {x: 42.5, y: -23}
+        - {x: 42.5, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
