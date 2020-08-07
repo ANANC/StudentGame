@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="My framework">
+      <UniqueIdentifier>{2a005f09-5791-49a5-a6de-3db092ca12a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="old framework">
+      <UniqueIdentifier>{17ab1ca3-e802-4e02-b70f-3dea69225c8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameSceen">
+      <UniqueIdentifier>{2ead0635-6623-4d0a-8e6a-4d5d7e90b37c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameProp">
+      <UniqueIdentifier>{d6e2403d-7f81-44a1-aa5f-7ab99cb9ff7c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="框架-3CGame\AnimationSprite.cpp">
+      <Filter>old framework</Filter>
+    </ClCompile>
+    <ClCompile Include="框架-3CGame\Game.cpp">
+      <Filter>old framework</Filter>
+    </ClCompile>
+    <ClCompile Include="框架-3CGame\ResourcesPool.cpp">
+      <Filter>old framework</Filter>
+    </ClCompile>
+    <ClCompile Include="框架-3CGame\Sprite.cpp">
+      <Filter>old framework</Filter>
+    </ClCompile>
+    <ClCompile Include="框架-3CGame\SpritesManager.cpp">
+      <Filter>old framework</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\CMyGame.cpp">
+      <Filter>My framework</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\GameScene.cpp">
+      <Filter>GameSceen</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\GameStart.cpp">
+      <Filter>GameSceen</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\GameSelect.cpp">
+      <Filter>GameSceen</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\GamePlay.cpp">
+      <Filter>GameSceen</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\People.cpp">
+      <Filter>GameProp</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\GameHinder.cpp">
+      <Filter>GameProp</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame\GameTime.cpp">
+      <Filter>GameProp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="框架-3CGame\AnimationSprite.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="框架-3CGame\D2D1link.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="框架-3CGame\Game.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="框架-3CGame\Helper.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="框架-3CGame\ResourcesPool.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="框架-3CGame\Sprite.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="框架-3CGame\SpritesManager.h">
+      <Filter>old framework</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\CMyGame.h">
+      <Filter>My framework</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\GameStart.h">
+      <Filter>GameSceen</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\GameScene.h">
+      <Filter>GameSceen</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\GameSelect.h">
+      <Filter>GameSceen</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\GamePlay.h">
+      <Filter>GameSceen</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\People.h">
+      <Filter>GameProp</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\GameHinder.h">
+      <Filter>GameProp</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGame\GameTime.h">
+      <Filter>GameProp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

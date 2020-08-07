@@ -1,0 +1,84 @@
+﻿生成启动时间为 2015/5/14 11:53:45。
+     1>项目“D:\游戏设计大赛\2015\EARTH\15z\15z.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Earth.cpp
+         Earth.cpp
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(17): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(21): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(25): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\framework\vector2d.h(61): warning C4244: “return”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(65): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(67): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(201): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(390): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(393): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(399): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(404): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(407): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(410): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(486): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(767): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(768): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(817): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(831): warning C4305: “初始化”: 从“double”到“float”截断
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(846): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(867): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(878): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(887): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(889): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(892): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(901): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(906): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(907): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(927): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(969): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1057): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1057): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1064): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1064): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1087): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1087): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1102): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1102): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1116): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1116): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1131): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1131): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1134): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1134): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1156): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1164): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1167): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1186): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1194): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1197): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1237): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1259): warning C4305: “+=”: 从“double”到“float”截断
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1262): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1264): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1269): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1392): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(1393): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(666): warning C4715: “Earth::IsGOver”: 不是所有的控件路径都返回值
+     1>d:\游戏设计大赛\2015\earth\earth.cpp(660): warning C4715: “Earth::IsRestart”: 不是所有的控件路径都返回值
+       Link:
+         G:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\游戏设计大赛\2015\EARTH\Debug\15z.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib msimg32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:G:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\游戏设计大赛\2015\EARTH\Debug\15z.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\游戏设计大赛\2015\EARTH\Debug\15z.lib" /MACHINE:X86 Debug\15z.res
+         Debug\Earth.obj
+         Debug\AnimationSprite.obj
+         Debug\Game.obj
+         Debug\ResourceManager.obj
+         Debug\Sprite.obj
+         Debug\SpriteManager.obj
+         Debug\main.obj
+         15z.vcxproj -> D:\游戏设计大赛\2015\EARTH\Debug\15z.exe
+     1>已完成生成项目“D:\游戏设计大赛\2015\EARTH\15z\15z.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.91

@@ -1,0 +1,122 @@
+﻿生成启动时间为 2015/3/19 19:38:58。
+     1>项目“D:\游戏设计大赛\2015\15z - 副本\15z\15z.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Earth.cpp ..\Framework\AnimationSprite.cpp ..\Framework\Game.cpp ..\Framework\ResourceManager.cpp ..\Framework\Sprite.cpp ..\Framework\SpriteManager.cpp ..\main.cpp
+         Earth.cpp
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(17): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(21): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(25): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(61): warning C4244: “return”: 从“const double”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(64): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+     1>..\Earth.cpp(65): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(66): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(192): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(285): warning C4101: “lp”: 未引用的局部变量
+     1>..\Earth.cpp(390): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(393): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(399): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(404): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(407): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(410): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(483): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(722): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(723): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(772): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(786): warning C4305: “初始化”: 从“double”到“float”截断
+     1>..\Earth.cpp(801): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(822): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(833): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(842): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>..\Earth.cpp(844): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>..\Earth.cpp(847): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(856): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(861): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>..\Earth.cpp(862): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>..\Earth.cpp(882): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(924): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(1007): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1007): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1011): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1011): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1030): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1030): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1045): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1045): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1059): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1059): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1074): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1074): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1077): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1077): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1105): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>..\Earth.cpp(1108): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1133): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+     1>..\Earth.cpp(1136): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1176): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1198): warning C4305: “+=”: 从“double”到“float”截断
+     1>..\Earth.cpp(1201): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(1203): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>..\Earth.cpp(1208): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+     1>..\Earth.cpp(1307): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>..\Earth.cpp(1308): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         AnimationSprite.cpp
+     1>..\Framework\AnimationSprite.cpp(86): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+         Game.cpp
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(17): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(21): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(25): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(61): warning C4244: “return”: 从“const double”转换到“float”，可能丢失数据
+     1>..\Framework\Game.cpp(85): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>..\Framework\Game.cpp(86): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>..\Framework\Game.cpp(102): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+         ResourceManager.cpp
+         Sprite.cpp
+     1>..\Framework\Sprite.cpp(13): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Framework\Sprite.cpp(14): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Framework\Sprite.cpp(38): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>..\Framework\Sprite.cpp(43): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>..\Framework\Sprite.cpp(133): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Framework\Sprite.cpp(134): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Framework\Sprite.cpp(146): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Framework\Sprite.cpp(147): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>..\Framework\Sprite.cpp(218): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>..\Framework\Sprite.cpp(219): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>..\Framework\Sprite.cpp(220): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>..\Framework\Sprite.cpp(221): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+         SpriteManager.cpp
+     1>..\Framework\SpriteManager.cpp(69): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+         main.cpp
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(17): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(21): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(25): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\游戏设计大赛\2015\15z - 副本\framework\Vector2D.h(61): warning C4244: “return”: 从“const double”转换到“float”，可能丢失数据
+       Link:
+         G:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\游戏设计大赛\2015\15z - 副本\Release\15z.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\游戏设计大赛\2015\15z - 副本\Release\15z.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\游戏设计大赛\2015\15z - 副本\Release\15z.lib" /MACHINE:X86 /SAFESEH Release\Earth.obj
+         Release\AnimationSprite.obj
+         Release\Game.obj
+         Release\ResourceManager.obj
+         Release\Sprite.obj
+         Release\SpriteManager.obj
+         Release\main.obj
+     1>Sprite.obj : error LNK2001: 无法解析的外部符号 __imp__TransparentBlt@44
+     1>D:\游戏设计大赛\2015\15z - 副本\Release\15z.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“D:\游戏设计大赛\2015\15z - 副本\15z\15z.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:07.97

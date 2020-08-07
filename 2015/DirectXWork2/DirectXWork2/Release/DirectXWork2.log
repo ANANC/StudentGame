@@ -1,0 +1,136 @@
+﻿生成启动时间为 2015/6/15 12:37:40。
+     1>项目“D:\游戏设计大赛\2015\DirectXWork2\DirectXWork2\DirectXWork2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\vs2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp MyGame\CMyGame.cpp MyGame\GameHinder.cpp MyGame\GamePlay.cpp MyGame\GameScene.cpp MyGame\GameSelect.cpp MyGame\GameStart.cpp MyGame\GameTime.cpp MyGame\People.cpp "框架-3CGame\AnimationSprite.cpp" "框架-3CGame\Game.cpp" "框架-3CGame\ResourcesPool.cpp" "框架-3CGame\Sprite.cpp" "框架-3CGame\SpritesManager.cpp"
+         main.cpp
+         CMyGame.cpp
+         GameHinder.cpp
+     1>MyGame\GameHinder.cpp(81): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(81): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(85): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(85): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(107): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(107): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(122): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(122): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(136): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(136): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(151): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(151): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(154): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(154): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(179): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>MyGame\GameHinder.cpp(186): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(211): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>MyGame\GameHinder.cpp(217): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(266): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(289): warning C4305: “+=”: 从“double”到“float”截断
+     1>MyGame\GameHinder.cpp(292): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>MyGame\GameHinder.cpp(294): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>MyGame\GameHinder.cpp(299): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GameHinder.cpp(409): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>MyGame\GameHinder.cpp(410): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+         GamePlay.cpp
+     1>MyGame\GamePlay.cpp(35): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GamePlay.cpp(44): warning C4244: “初始化”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>MyGame\GamePlay.cpp(227): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GamePlay.cpp(228): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\GamePlay.cpp(232): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         GameScene.cpp
+     1>MyGame\GameScene.cpp(69): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(75): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(79): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(83): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(87): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(91): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(95): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(99): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(103): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(109): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(114): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(118): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(128): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(134): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>MyGame\GameScene.cpp(138): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+         GameSelect.cpp
+     1>MyGame\GameSelect.cpp(59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>MyGame\GameSelect.cpp(62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>MyGame\GameSelect.cpp(68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>MyGame\GameSelect.cpp(73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>MyGame\GameSelect.cpp(76): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>MyGame\GameSelect.cpp(79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         GameStart.cpp
+         GameTime.cpp
+     1>MyGame\GameTime.cpp(21): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+     1>MyGame\GameTime.cpp(27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         People.cpp
+     1>MyGame\People.cpp(24): warning C4244: “参数”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>MyGame\People.cpp(30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>MyGame\People.cpp(31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>MyGame\People.cpp(32): warning C4244: “初始化”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>MyGame\People.cpp(52): warning C4305: “初始化”: 从“double”到“float”截断
+     1>MyGame\People.cpp(67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>MyGame\People.cpp(84): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>MyGame\People.cpp(95): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>MyGame\People.cpp(106): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\People.cpp(108): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\People.cpp(128): warning C4244: “参数”: 从“LONG”转换到“FLOAT”，可能丢失数据
+     1>MyGame\People.cpp(133): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+     1>MyGame\People.cpp(134): warning C4244: “=”: 从“FLOAT”转换到“LONG”，可能丢失数据
+         AnimationSprite.cpp
+         Game.cpp
+     1>框架-3CGame\Game.cpp(223): warning C4018: “>=”: 有符号/无符号不匹配
+     1>框架-3CGame\Game.cpp(230): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         ResourcesPool.cpp
+         Sprite.cpp
+     1>框架-3CGame\Sprite.cpp(32): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(33): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(38): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(39): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(41): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(42): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(174): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>框架-3CGame\Sprite.cpp(183): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>框架-3CGame\Sprite.cpp(333): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(334): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(336): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(337): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(345): warning C4244: “初始化”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(346): warning C4244: “初始化”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(350): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(352): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(354): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(356): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(359): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(360): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(361): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+     1>框架-3CGame\Sprite.cpp(362): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+         SpritesManager.cpp
+     1>框架-3CGame\SpritesManager.cpp(45): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\SpritesManager.cpp(46): warning C4244: “=”: 从“FLOAT”转换到“int”，可能丢失数据
+     1>框架-3CGame\SpritesManager.cpp(87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+       Link:
+         G:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\游戏设计大赛\2015\DirectXWork2\Release\DirectXWork2.exe" /INCREMENTAL:NO /NOLOGO winmm.lib dwrite.lib windowscodecs.lib d2d1.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\游戏设计大赛\2015\DirectXWork2\Release\DirectXWork2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\游戏设计大赛\2015\DirectXWork2\Release\DirectXWork2.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\CMyGame.obj
+         Release\GameHinder.obj
+         Release\GamePlay.obj
+         Release\GameScene.obj
+         Release\GameSelect.obj
+         Release\GameStart.obj
+         Release\GameTime.obj
+         Release\People.obj
+         Release\AnimationSprite.obj
+         Release\Game.obj
+         Release\ResourcesPool.obj
+         Release\Sprite.obj
+         Release\SpritesManager.obj
+         正在生成代码
+     1>d:\游戏设计大赛\2015\directxwork2\directxwork2\mygame\gameplay.cpp(285): warning C4715: “CGamePlay::IsGOver”: 不是所有的控件路径都返回值
+     1>d:\游戏设计大赛\2015\directxwork2\directxwork2\mygame\gameplay.cpp(279): warning C4715: “CGamePlay::IsRestart”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         DirectXWork2.vcxproj -> D:\游戏设计大赛\2015\DirectXWork2\Release\DirectXWork2.exe
+     1>已完成生成项目“D:\游戏设计大赛\2015\DirectXWork2\DirectXWork2\DirectXWork2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.33
