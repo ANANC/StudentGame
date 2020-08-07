@@ -1,0 +1,17 @@
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\bin\Debug\GDIDemo2.exe
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\bin\Debug\GDIDemo2.pdb
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.csprojResolveAssemblyReference.cache
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.DemoUI.resources
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.Properties.Resources.resources
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.csproj.GenerateResource.Cache
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.exe
+G:\编程练习\C#\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.pdb
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\bin\Debug\GDIDemo2.exe
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\bin\Debug\GDIDemo2.pdb
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.DemoUI.resources
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.Properties.Resources.resources
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.exe
+C:\Users\admin\Desktop\第二次作业-贪吃蛇\GDIDemo2\obj\x86\Debug\GDIDemo2.pdb
